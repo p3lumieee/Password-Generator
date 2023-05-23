@@ -11,7 +11,7 @@
 int randomize(int a, int b);
 void fill_unique(int array[], int length, int min, int max);    //prototype of the functions used
 
-int main(){
+int main(){ //the main function
 
 	int rand_num, words;
 
