@@ -1,18 +1,18 @@
 # Password-Generator
 This is a program written in C programming lanuguage.
 
-	 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-|											                                               |	
-|	PROJECT TITLE								                                       |
-|											                                               |
-|											                                               |
-|				PASSWORD GENERATOR				                                   |
-|											                                               |
-|											                                               |
-|											                                               |
-|											                                               |
-|	AUTHORS:     AKINBINU MORAANUOLUWA		                             |
-|  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   |
+   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+|								   |			                                               |								   |
+|	PROJECT TITLE						   |
+|								   |
+|								   |
+|				PASSWORD GENERATOR		   |
+|								   |
+|								   |
+|								   |
+|								   |
+|	AUTHORS:     AKINBINU MORAANUOLUWA		           |
+| _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  |
 
 
 
